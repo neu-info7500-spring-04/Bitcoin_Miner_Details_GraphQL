@@ -1,2 +1,2 @@
 Demo"
-![Miner Details](images/1.png
+![Miner Details](images/1.png)
